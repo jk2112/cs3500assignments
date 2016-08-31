@@ -17,5 +17,10 @@ namespace TestProject
         {
 
         }
+
+        static void MasterOnly()
+        {
+
+        }
     }
 }
