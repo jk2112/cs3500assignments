@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormulaEvaluator", "FormulaEvaluator\FormulaEvaluator.csproj", "{3365D5F1-9EBF-4887-ADD5-F8B84DE04233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PS1Tests", "PS1Tests\PS1Tests.csproj", "{062EBE3E-F0E4-43B3-9079-5E0D8D57B567}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3365D5F1-9EBF-4887-ADD5-F8B84DE04233}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3365D5F1-9EBF-4887-ADD5-F8B84DE04233}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3365D5F1-9EBF-4887-ADD5-F8B84DE04233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{062EBE3E-F0E4-43B3-9079-5E0D8D57B567}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{062EBE3E-F0E4-43B3-9079-5E0D8D57B567}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{062EBE3E-F0E4-43B3-9079-5E0D8D57B567}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{062EBE3E-F0E4-43B3-9079-5E0D8D57B567}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
